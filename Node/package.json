@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "ar-drone": "^0.3.3",
+    "node-gyp": "^3.8.0",
+    "serialport": "^4.0.7",
+    "socketio": "^1.0.0"
+  }
+}
